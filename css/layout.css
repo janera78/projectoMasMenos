@@ -1,2 +1,11 @@
 /* LAYOUT */
 /* ***** */
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+html {
+    font-family: sans-serif;
+}
