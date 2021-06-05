@@ -30,7 +30,7 @@ a{
     font-size: 18px;
 }
 .main{
-    background-color: rgb(247, 188, 88);
+    background-color: var(--colorButton);
     padding: 40px;
     margin-top: 0;
     color: white;
@@ -61,7 +61,7 @@ p{
 .button{
     grid-column: 3/4;
     grid-row: 3/4;
-    background-color: rgb(247, 188, 88);
+    background-color: var(--colorButton);
     padding: 20px;
     color: white;
   

@@ -4,5 +4,7 @@
 /* Variables */
 :root{
     
+    /*color de boton*/
+    --colorButton: rgb(247, 188, 88);
 
 }
